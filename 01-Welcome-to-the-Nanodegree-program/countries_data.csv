@@ -1,0 +1,939 @@
+year,city,country,avg_temp,gbl_avg_temp
+1787,Antananarivo,Madagascar,19.12,8.03
+1788,Antananarivo,Madagascar,18.02,8.45
+1789,Antananarivo,Madagascar,18.83,8.33
+1790,Antananarivo,Madagascar,18.79,7.98
+1791,Antananarivo,Madagascar,19.23,8.23
+1792,Antananarivo,Madagascar,18.61,8.09
+1793,Antananarivo,Madagascar,,8.23
+1794,Antananarivo,Madagascar,,8.53
+1795,Antananarivo,Madagascar,,8.35
+1796,Antananarivo,Madagascar,,8.27
+1797,Antananarivo,Madagascar,,8.51
+1798,Antananarivo,Madagascar,,8.67
+1799,Antananarivo,Madagascar,,8.51
+1800,Antananarivo,Madagascar,,8.48
+1801,Antananarivo,Madagascar,,8.59
+1802,Antananarivo,Madagascar,,8.58
+1803,Antananarivo,Madagascar,18.59,8.50
+1804,Antananarivo,Madagascar,19.20,8.84
+1805,Antananarivo,Madagascar,,8.56
+1806,Antananarivo,Madagascar,,8.43
+1807,Antananarivo,Madagascar,,8.28
+1808,Antananarivo,Madagascar,,7.63
+1809,Antananarivo,Madagascar,,7.08
+1810,Antananarivo,Madagascar,,6.92
+1811,Antananarivo,Madagascar,,6.86
+1812,Antananarivo,Madagascar,,7.05
+1813,Antananarivo,Madagascar,,7.74
+1814,Antananarivo,Madagascar,,7.59
+1815,Antananarivo,Madagascar,,7.24
+1816,Antananarivo,Madagascar,,6.94
+1817,Antananarivo,Madagascar,,6.98
+1818,Antananarivo,Madagascar,,7.83
+1819,Antananarivo,Madagascar,,7.37
+1820,Antananarivo,Madagascar,,7.62
+1821,Antananarivo,Madagascar,,8.09
+1822,Antananarivo,Madagascar,,8.19
+1823,Antananarivo,Madagascar,,7.72
+1824,Antananarivo,Madagascar,,8.55
+1825,Antananarivo,Madagascar,,8.39
+1826,Antananarivo,Madagascar,,8.36
+1827,Antananarivo,Madagascar,,8.81
+1828,Antananarivo,Madagascar,,8.17
+1829,Antananarivo,Madagascar,,7.94
+1830,Antananarivo,Madagascar,,8.52
+1831,Antananarivo,Madagascar,,7.64
+1832,Antananarivo,Madagascar,,7.45
+1833,Antananarivo,Madagascar,,8.01
+1834,Antananarivo,Madagascar,,8.15
+1835,Antananarivo,Madagascar,,7.39
+1836,Antananarivo,Madagascar,,7.70
+1837,Antananarivo,Madagascar,,7.38
+1838,Antananarivo,Madagascar,,7.51
+1839,Antananarivo,Madagascar,,7.63
+1840,Antananarivo,Madagascar,,7.80
+1841,Antananarivo,Madagascar,,7.69
+1842,Antananarivo,Madagascar,,8.02
+1843,Antananarivo,Madagascar,,8.17
+1844,Antananarivo,Madagascar,,7.65
+1845,Antananarivo,Madagascar,,7.85
+1846,Antananarivo,Madagascar,,8.55
+1847,Antananarivo,Madagascar,,8.09
+1848,Antananarivo,Madagascar,,7.98
+1849,Antananarivo,Madagascar,,7.98
+1850,Antananarivo,Madagascar,18.26,7.90
+1851,Antananarivo,Madagascar,,8.18
+1852,Antananarivo,Madagascar,,8.10
+1853,Antananarivo,Madagascar,18.62,8.04
+1854,Antananarivo,Madagascar,18.75,8.21
+1855,Antananarivo,Madagascar,18.58,8.11
+1856,Antananarivo,Madagascar,18.43,8.00
+1857,Antananarivo,Madagascar,18.28,7.76
+1858,Antananarivo,Madagascar,18.69,8.10
+1859,Antananarivo,Madagascar,18.83,8.25
+1860,Antananarivo,Madagascar,18.67,7.96
+1861,Antananarivo,Madagascar,18.73,7.85
+1862,Antananarivo,Madagascar,,7.56
+1863,Antananarivo,Madagascar,,8.11
+1864,Antananarivo,Madagascar,18.57,7.98
+1865,Antananarivo,Madagascar,,8.18
+1866,Antananarivo,Madagascar,,8.29
+1867,Antananarivo,Madagascar,,8.44
+1868,Antananarivo,Madagascar,,8.25
+1869,Antananarivo,Madagascar,,8.43
+1870,Antananarivo,Madagascar,,8.20
+1871,Antananarivo,Madagascar,,8.12
+1872,Antananarivo,Madagascar,,8.19
+1873,Antananarivo,Madagascar,,8.35
+1874,Antananarivo,Madagascar,,8.43
+1875,Antananarivo,Madagascar,17.69,7.86
+1876,Antananarivo,Madagascar,18.57,8.08
+1877,Antananarivo,Madagascar,19.10,8.54
+1878,Antananarivo,Madagascar,19.33,8.83
+1879,Antananarivo,Madagascar,,8.17
+1880,Antananarivo,Madagascar,18.56,8.12
+1881,Antananarivo,Madagascar,20.94,8.27
+1882,Antananarivo,Madagascar,,8.13
+1883,Antananarivo,Madagascar,,7.98
+1884,Antananarivo,Madagascar,,7.77
+1885,Antananarivo,Madagascar,,7.92
+1886,Antananarivo,Madagascar,,7.95
+1887,Antananarivo,Madagascar,,7.91
+1888,Antananarivo,Madagascar,,8.09
+1889,Antananarivo,Madagascar,19.08,8.32
+1890,Antananarivo,Madagascar,18.26,7.97
+1891,Antananarivo,Madagascar,18.41,8.02
+1892,Antananarivo,Madagascar,18.68,8.07
+1893,Antananarivo,Madagascar,18.32,8.06
+1894,Antananarivo,Madagascar,18.86,8.16
+1895,Antananarivo,Madagascar,18.92,8.15
+1896,Antananarivo,Madagascar,18.94,8.21
+1897,Antananarivo,Madagascar,19.14,8.29
+1898,Antananarivo,Madagascar,19.13,8.18
+1899,Antananarivo,Madagascar,18.72,8.40
+1900,Antananarivo,Madagascar,19.42,8.50
+1901,Antananarivo,Madagascar,19.24,8.54
+1902,Antananarivo,Madagascar,19.33,8.30
+1903,Antananarivo,Madagascar,18.98,8.22
+1904,Antananarivo,Madagascar,18.61,8.09
+1905,Antananarivo,Madagascar,19.15,8.23
+1906,Antananarivo,Madagascar,18.94,8.38
+1907,Antananarivo,Madagascar,18.80,7.95
+1908,Antananarivo,Madagascar,19.20,8.19
+1909,Antananarivo,Madagascar,18.99,8.18
+1910,Antananarivo,Madagascar,18.65,8.22
+1911,Antananarivo,Madagascar,18.65,8.18
+1912,Antananarivo,Madagascar,19.35,8.17
+1913,Antananarivo,Madagascar,18.98,8.30
+1914,Antananarivo,Madagascar,19.19,8.59
+1915,Antananarivo,Madagascar,19.18,8.59
+1916,Antananarivo,Madagascar,18.72,8.23
+1917,Antananarivo,Madagascar,18.57,8.02
+1918,Antananarivo,Madagascar,18.76,8.13
+1919,Antananarivo,Madagascar,19.10,8.38
+1920,Antananarivo,Madagascar,18.74,8.36
+1921,Antananarivo,Madagascar,18.72,8.57
+1922,Antananarivo,Madagascar,18.61,8.41
+1923,Antananarivo,Madagascar,19.11,8.42
+1924,Antananarivo,Madagascar,18.83,8.51
+1925,Antananarivo,Madagascar,19.17,8.53
+1926,Antananarivo,Madagascar,19.60,8.73
+1927,Antananarivo,Madagascar,18.85,8.52
+1928,Antananarivo,Madagascar,19.13,8.63
+1929,Antananarivo,Madagascar,19.08,8.24
+1930,Antananarivo,Madagascar,18.65,8.63
+1931,Antananarivo,Madagascar,19.40,8.72
+1932,Antananarivo,Madagascar,19.03,8.71
+1933,Antananarivo,Madagascar,19.04,8.34
+1934,Antananarivo,Madagascar,18.92,8.63
+1935,Antananarivo,Madagascar,19.03,8.52
+1936,Antananarivo,Madagascar,19.31,8.55
+1937,Antananarivo,Madagascar,19.33,8.70
+1938,Antananarivo,Madagascar,19.25,8.86
+1939,Antananarivo,Madagascar,19.34,8.76
+1940,Antananarivo,Madagascar,19.44,8.76
+1941,Antananarivo,Madagascar,19.46,8.77
+1942,Antananarivo,Madagascar,19.15,8.73
+1943,Antananarivo,Madagascar,18.72,8.76
+1944,Antananarivo,Madagascar,19.18,8.85
+1945,Antananarivo,Madagascar,19.25,8.58
+1946,Antananarivo,Madagascar,19.22,8.68
+1947,Antananarivo,Madagascar,19.24,8.80
+1948,Antananarivo,Madagascar,19.41,8.75
+1949,Antananarivo,Madagascar,19.48,8.59
+1950,Antananarivo,Madagascar,18.90,8.37
+1951,Antananarivo,Madagascar,19.11,8.63
+1952,Antananarivo,Madagascar,19.19,8.64
+1953,Antananarivo,Madagascar,19.30,8.87
+1954,Antananarivo,Madagascar,19.37,8.56
+1955,Antananarivo,Madagascar,19.23,8.63
+1956,Antananarivo,Madagascar,19.08,8.28
+1957,Antananarivo,Madagascar,19.32,8.73
+1958,Antananarivo,Madagascar,19.41,8.77
+1959,Antananarivo,Madagascar,19.18,8.73
+1960,Antananarivo,Madagascar,19.06,8.58
+1961,Antananarivo,Madagascar,19.95,8.80
+1962,Antananarivo,Madagascar,19.19,8.75
+1963,Antananarivo,Madagascar,19.06,8.86
+1964,Antananarivo,Madagascar,18.93,8.41
+1965,Antananarivo,Madagascar,18.78,8.53
+1966,Antananarivo,Madagascar,19.42,8.60
+1967,Antananarivo,Madagascar,19.61,8.70
+1968,Antananarivo,Madagascar,19.00,8.52
+1969,Antananarivo,Madagascar,20.11,8.60
+1970,Antananarivo,Madagascar,19.79,8.70
+1971,Antananarivo,Madagascar,19.07,8.60
+1972,Antananarivo,Madagascar,19.36,8.50
+1973,Antananarivo,Madagascar,19.37,8.95
+1974,Antananarivo,Madagascar,18.95,8.47
+1975,Antananarivo,Madagascar,19.00,8.74
+1976,Antananarivo,Madagascar,19.33,8.35
+1977,Antananarivo,Madagascar,19.63,8.85
+1978,Antananarivo,Madagascar,19.60,8.69
+1979,Antananarivo,Madagascar,19.38,8.73
+1980,Antananarivo,Madagascar,19.43,8.98
+1981,Antananarivo,Madagascar,19.44,9.17
+1982,Antananarivo,Madagascar,19.49,8.64
+1983,Antananarivo,Madagascar,19.66,9.03
+1984,Antananarivo,Madagascar,19.04,8.69
+1985,Antananarivo,Madagascar,19.17,8.66
+1986,Antananarivo,Madagascar,19.13,8.83
+1987,Antananarivo,Madagascar,19.77,8.99
+1988,Antananarivo,Madagascar,19.56,9.20
+1989,Antananarivo,Madagascar,19.36,8.92
+1990,Antananarivo,Madagascar,19.62,9.23
+1991,Antananarivo,Madagascar,19.79,9.18
+1992,Antananarivo,Madagascar,19.76,8.84
+1993,Antananarivo,Madagascar,19.95,8.87
+1994,Antananarivo,Madagascar,19.96,9.04
+1995,Antananarivo,Madagascar,19.96,9.35
+1996,Antananarivo,Madagascar,19.71,9.04
+1997,Antananarivo,Madagascar,19.97,9.20
+1998,Antananarivo,Madagascar,20.11,9.52
+1999,Antananarivo,Madagascar,19.82,9.29
+2000,Antananarivo,Madagascar,19.65,9.20
+2001,Antananarivo,Madagascar,20.12,9.41
+2002,Antananarivo,Madagascar,20.14,9.57
+2003,Antananarivo,Madagascar,19.91,9.53
+2004,Antananarivo,Madagascar,19.87,9.32
+2005,Antananarivo,Madagascar,20.05,9.70
+2006,Antananarivo,Madagascar,20.09,9.53
+2007,Antananarivo,Madagascar,20.02,9.73
+2008,Antananarivo,Madagascar,19.79,9.43
+2009,Antananarivo,Madagascar,20.13,9.51
+2010,Antananarivo,Madagascar,20.31,9.70
+2011,Antananarivo,Madagascar,20.33,9.52
+2012,Antananarivo,Madagascar,19.78,9.51
+2013,Antananarivo,Madagascar,19.34,9.61
+1743,London,United Kingdom,7.54,
+1744,London,United Kingdom,10.34,
+1745,London,United Kingdom,4.13,
+1746,London,United Kingdom,,
+1747,London,United Kingdom,,
+1748,London,United Kingdom,,
+1749,London,United Kingdom,,
+1750,London,United Kingdom,10.25,8.72
+1751,London,United Kingdom,9.99,7.98
+1752,London,United Kingdom,6.54,5.78
+1753,London,United Kingdom,9.42,8.39
+1754,London,United Kingdom,9.20,8.47
+1755,London,United Kingdom,8.95,8.36
+1756,London,United Kingdom,9.42,8.85
+1757,London,United Kingdom,9.34,9.02
+1758,London,United Kingdom,8.85,6.74
+1759,London,United Kingdom,9.80,7.99
+1760,London,United Kingdom,9.26,7.19
+1761,London,United Kingdom,9.69,8.77
+1762,London,United Kingdom,8.99,8.61
+1763,London,United Kingdom,8.75,7.50
+1764,London,United Kingdom,9.14,8.40
+1765,London,United Kingdom,8.95,8.25
+1766,London,United Kingdom,9.07,8.41
+1767,London,United Kingdom,8.98,8.22
+1768,London,United Kingdom,9.12,6.78
+1769,London,United Kingdom,9.04,7.69
+1770,London,United Kingdom,9.03,7.69
+1771,London,United Kingdom,8.78,7.85
+1772,London,United Kingdom,9.36,8.19
+1773,London,United Kingdom,9.33,8.22
+1774,London,United Kingdom,9.10,8.77
+1775,London,United Kingdom,10.10,9.18
+1776,London,United Kingdom,9.21,8.30
+1777,London,United Kingdom,9.25,8.26
+1778,London,United Kingdom,9.80,8.54
+1779,London,United Kingdom,10.76,8.98
+1780,London,United Kingdom,9.67,9.43
+1781,London,United Kingdom,10.41,8.10
+1782,London,United Kingdom,8.44,7.90
+1783,London,United Kingdom,9.97,7.68
+1784,London,United Kingdom,8.29,7.86
+1785,London,United Kingdom,8.54,7.36
+1786,London,United Kingdom,8.35,8.26
+1787,London,United Kingdom,9.53,8.03
+1788,London,United Kingdom,9.39,8.45
+1789,London,United Kingdom,9.12,8.33
+1790,London,United Kingdom,9.67,7.98
+1791,London,United Kingdom,9.59,8.23
+1792,London,United Kingdom,9.56,8.09
+1793,London,United Kingdom,9.59,8.23
+1794,London,United Kingdom,10.00,8.53
+1795,London,United Kingdom,9.19,8.35
+1796,London,United Kingdom,9.50,8.27
+1797,London,United Kingdom,9.62,8.51
+1798,London,United Kingdom,9.83,8.67
+1799,London,United Kingdom,7.94,8.51
+1800,London,United Kingdom,9.32,8.48
+1801,London,United Kingdom,9.68,8.59
+1802,London,United Kingdom,9.31,8.58
+1803,London,United Kingdom,8.79,8.50
+1804,London,United Kingdom,9.37,8.84
+1805,London,United Kingdom,8.56,8.56
+1806,London,United Kingdom,9.87,8.43
+1807,London,United Kingdom,9.03,8.28
+1808,London,United Kingdom,8.91,7.63
+1809,London,United Kingdom,8.99,7.08
+1810,London,United Kingdom,8.97,6.92
+1811,London,United Kingdom,10.10,6.86
+1812,London,United Kingdom,8.58,7.05
+1813,London,United Kingdom,9.13,7.74
+1814,London,United Kingdom,7.93,7.59
+1815,London,United Kingdom,8.99,7.24
+1816,London,United Kingdom,7.98,6.94
+1817,London,United Kingdom,8.95,6.98
+1818,London,United Kingdom,9.88,7.83
+1819,London,United Kingdom,9.58,7.37
+1820,London,United Kingdom,8.61,7.62
+1821,London,United Kingdom,9.63,8.09
+1822,London,United Kingdom,10.36,8.19
+1823,London,United Kingdom,8.80,7.72
+1824,London,United Kingdom,9.65,8.55
+1825,London,United Kingdom,9.98,8.39
+1826,London,United Kingdom,10.12,8.36
+1827,London,United Kingdom,9.37,8.81
+1828,London,United Kingdom,10.10,8.17
+1829,London,United Kingdom,7.95,7.94
+1830,London,United Kingdom,8.78,8.52
+1831,London,United Kingdom,10.01,7.64
+1832,London,United Kingdom,9.24,7.45
+1833,London,United Kingdom,9.40,8.01
+1834,London,United Kingdom,10.59,8.15
+1835,London,United Kingdom,9.48,7.39
+1836,London,United Kingdom,9.04,7.70
+1837,London,United Kingdom,8.85,7.38
+1838,London,United Kingdom,8.05,7.51
+1839,London,United Kingdom,8.89,7.63
+1840,London,United Kingdom,8.68,7.80
+1841,London,United Kingdom,9.12,7.69
+1842,London,United Kingdom,9.43,8.02
+1843,London,United Kingdom,9.40,8.17
+1844,London,United Kingdom,8.85,7.65
+1845,London,United Kingdom,8.46,7.85
+1846,London,United Kingdom,10.48,8.55
+1847,London,United Kingdom,9.24,8.09
+1848,London,United Kingdom,9.52,7.98
+1849,London,United Kingdom,9.42,7.98
+1850,London,United Kingdom,9.06,7.90
+1851,London,United Kingdom,9.17,8.18
+1852,London,United Kingdom,9.96,8.10
+1853,London,United Kingdom,8.44,8.04
+1854,London,United Kingdom,9.30,8.21
+1855,London,United Kingdom,8.03,8.11
+1856,London,United Kingdom,9.17,8.00
+1857,London,United Kingdom,10.21,7.76
+1858,London,United Kingdom,9.20,8.10
+1859,London,United Kingdom,9.97,8.25
+1860,London,United Kingdom,8.17,7.96
+1861,London,United Kingdom,9.42,7.85
+1862,London,United Kingdom,9.56,7.56
+1863,London,United Kingdom,9.90,8.11
+1864,London,United Kingdom,8.74,7.98
+1865,London,United Kingdom,9.82,8.18
+1866,London,United Kingdom,9.69,8.29
+1867,London,United Kingdom,9.06,8.44
+1868,London,United Kingdom,10.50,8.25
+1869,London,United Kingdom,9.46,8.43
+1870,London,United Kingdom,8.94,8.20
+1871,London,United Kingdom,8.97,8.12
+1872,London,United Kingdom,10.07,8.19
+1873,London,United Kingdom,9.26,8.35
+1874,London,United Kingdom,9.37,8.43
+1875,London,United Kingdom,9.43,7.86
+1876,London,United Kingdom,9.75,8.08
+1877,London,United Kingdom,9.43,8.54
+1878,London,United Kingdom,9.47,8.83
+1879,London,United Kingdom,7.62,8.17
+1880,London,United Kingdom,9.35,8.12
+1881,London,United Kingdom,8.71,8.27
+1882,London,United Kingdom,9.43,8.13
+1883,London,United Kingdom,9.21,7.98
+1884,London,United Kingdom,9.86,7.77
+1885,London,United Kingdom,8.68,7.92
+1886,London,United Kingdom,8.80,7.95
+1887,London,United Kingdom,8.39,7.91
+1888,London,United Kingdom,8.31,8.09
+1889,London,United Kingdom,8.91,8.32
+1890,London,United Kingdom,8.86,7.97
+1891,London,United Kingdom,8.65,8.02
+1892,London,United Kingdom,8.35,8.07
+1893,London,United Kingdom,10.05,8.06
+1894,London,United Kingdom,9.42,8.16
+1895,London,United Kingdom,8.91,8.15
+1896,London,United Kingdom,9.41,8.21
+1897,London,United Kingdom,9.50,8.29
+1898,London,United Kingdom,10.08,8.18
+1899,London,United Kingdom,9.85,8.40
+1900,London,United Kingdom,9.73,8.50
+1901,London,United Kingdom,9.20,8.54
+1902,London,United Kingdom,8.95,8.30
+1903,London,United Kingdom,9.45,8.22
+1904,London,United Kingdom,9.18,8.09
+1905,London,United Kingdom,9.25,8.23
+1906,London,United Kingdom,9.62,8.38
+1907,London,United Kingdom,9.03,7.95
+1908,London,United Kingdom,9.31,8.19
+1909,London,United Kingdom,8.70,8.18
+1910,London,United Kingdom,9.39,8.22
+1911,London,United Kingdom,10.22,8.18
+1912,London,United Kingdom,9.57,8.17
+1913,London,United Kingdom,9.89,8.30
+1914,London,United Kingdom,9.98,8.59
+1915,London,United Kingdom,9.07,8.59
+1916,London,United Kingdom,9.28,8.23
+1917,London,United Kingdom,8.65,8.02
+1918,London,United Kingdom,9.60,8.13
+1919,London,United Kingdom,8.48,8.38
+1920,London,United Kingdom,9.67,8.36
+1921,London,United Kingdom,10.60,8.57
+1922,London,United Kingdom,8.81,8.41
+1923,London,United Kingdom,9.17,8.42
+1924,London,United Kingdom,9.34,8.51
+1925,London,United Kingdom,9.31,8.53
+1926,London,United Kingdom,9.83,8.73
+1927,London,United Kingdom,9.25,8.52
+1928,London,United Kingdom,9.69,8.63
+1929,London,United Kingdom,9.09,8.24
+1930,London,United Kingdom,9.70,8.63
+1931,London,United Kingdom,9.12,8.72
+1932,London,United Kingdom,9.57,8.71
+1933,London,United Kingdom,9.96,8.34
+1934,London,United Kingdom,10.11,8.63
+1935,London,United Kingdom,9.90,8.52
+1936,London,United Kingdom,9.43,8.55
+1937,London,United Kingdom,9.69,8.70
+1938,London,United Kingdom,10.18,8.86
+1939,London,United Kingdom,9.77,8.76
+1940,London,United Kingdom,9.06,8.76
+1941,London,United Kingdom,9.09,8.77
+1942,London,United Kingdom,9.10,8.73
+1943,London,United Kingdom,10.19,8.76
+1944,London,United Kingdom,9.62,8.85
+1945,London,United Kingdom,10.39,8.58
+1946,London,United Kingdom,9.58,8.68
+1947,London,United Kingdom,9.75,8.80
+1948,London,United Kingdom,10.16,8.75
+1949,London,United Kingdom,10.63,8.59
+1950,London,United Kingdom,9.75,8.37
+1951,London,United Kingdom,9.52,8.63
+1952,London,United Kingdom,9.35,8.64
+1953,London,United Kingdom,9.95,8.87
+1954,London,United Kingdom,9.35,8.56
+1955,London,United Kingdom,9.39,8.63
+1956,London,United Kingdom,8.87,8.28
+1957,London,United Kingdom,10.26,8.73
+1958,London,United Kingdom,9.66,8.77
+1959,London,United Kingdom,10.63,8.73
+1960,London,United Kingdom,9.88,8.58
+1961,London,United Kingdom,10.20,8.80
+1962,London,United Kingdom,8.65,8.75
+1963,London,United Kingdom,8.48,8.86
+1964,London,United Kingdom,9.53,8.41
+1965,London,United Kingdom,9.03,8.53
+1966,London,United Kingdom,9.59,8.60
+1967,London,United Kingdom,9.81,8.70
+1968,London,United Kingdom,9.48,8.52
+1969,London,United Kingdom,9.47,8.60
+1970,London,United Kingdom,9.69,8.70
+1971,London,United Kingdom,9.89,8.60
+1972,London,United Kingdom,9.41,8.50
+1973,London,United Kingdom,9.75,8.95
+1974,London,United Kingdom,9.70,8.47
+1975,London,United Kingdom,9.99,8.74
+1976,London,United Kingdom,10.28,8.35
+1977,London,United Kingdom,9.69,8.85
+1978,London,United Kingdom,9.41,8.69
+1979,London,United Kingdom,9.06,8.73
+1980,London,United Kingdom,9.54,8.98
+1981,London,United Kingdom,9.38,9.17
+1982,London,United Kingdom,10.07,8.64
+1983,London,United Kingdom,10.12,9.03
+1984,London,United Kingdom,9.75,8.69
+1985,London,United Kingdom,9.00,8.66
+1986,London,United Kingdom,8.94,8.83
+1987,London,United Kingdom,9.22,8.99
+1988,London,United Kingdom,9.82,9.20
+1989,London,United Kingdom,10.76,8.92
+1990,London,United Kingdom,10.94,9.23
+1991,London,United Kingdom,9.67,9.18
+1992,London,United Kingdom,10.15,8.84
+1993,London,United Kingdom,9.69,8.87
+1994,London,United Kingdom,10.48,9.04
+1995,London,United Kingdom,10.55,9.35
+1996,London,United Kingdom,9.27,9.04
+1997,London,United Kingdom,10.64,9.20
+1998,London,United Kingdom,10.40,9.52
+1999,London,United Kingdom,10.86,9.29
+2000,London,United Kingdom,10.52,9.20
+2001,London,United Kingdom,10.18,9.41
+2002,London,United Kingdom,10.91,9.57
+2003,London,United Kingdom,10.81,9.53
+2004,London,United Kingdom,10.77,9.32
+2005,London,United Kingdom,10.63,9.70
+2006,London,United Kingdom,11.10,9.53
+2007,London,United Kingdom,10.83,9.73
+2008,London,United Kingdom,10.38,9.43
+2009,London,United Kingdom,10.52,9.51
+2010,London,United Kingdom,9.38,9.70
+2011,London,United Kingdom,11.19,9.52
+2012,London,United Kingdom,10.00,9.51
+2013,London,United Kingdom,9.91,9.61
+1743,New York,United States,3.26,
+1744,New York,United States,11.66,
+1745,New York,United States,1.13,
+1746,New York,United States,,
+1747,New York,United States,,
+1748,New York,United States,,
+1749,New York,United States,,
+1750,New York,United States,10.07,8.72
+1751,New York,United States,10.79,7.98
+1752,New York,United States,2.81,5.78
+1753,New York,United States,9.52,8.39
+1754,New York,United States,9.88,8.47
+1755,New York,United States,6.61,8.36
+1756,New York,United States,9.94,8.85
+1757,New York,United States,8.89,9.02
+1758,New York,United States,8.15,6.74
+1759,New York,United States,9.01,7.99
+1760,New York,United States,7.73,7.19
+1761,New York,United States,10.18,8.77
+1762,New York,United States,9.55,8.61
+1763,New York,United States,7.23,7.50
+1764,New York,United States,9.55,8.40
+1765,New York,United States,8.96,8.25
+1766,New York,United States,10.09,8.41
+1767,New York,United States,8.52,8.22
+1768,New York,United States,8.67,6.78
+1769,New York,United States,9.10,7.69
+1770,New York,United States,9.04,7.69
+1771,New York,United States,10.18,7.85
+1772,New York,United States,9.64,8.19
+1773,New York,United States,10.08,8.22
+1774,New York,United States,9.52,8.77
+1775,New York,United States,10.24,9.18
+1776,New York,United States,9.13,8.30
+1777,New York,United States,8.77,8.26
+1778,New York,United States,6.89,8.54
+1779,New York,United States,0.25,8.98
+1780,New York,United States,,9.43
+1781,New York,United States,9.79,8.10
+1782,New York,United States,9.15,7.90
+1783,New York,United States,8.81,7.68
+1784,New York,United States,8.40,7.86
+1785,New York,United States,8.49,7.36
+1786,New York,United States,8.98,8.26
+1787,New York,United States,8.97,8.03
+1788,New York,United States,9.77,8.45
+1789,New York,United States,9.42,8.33
+1790,New York,United States,9.39,7.98
+1791,New York,United States,9.37,8.23
+1792,New York,United States,8.72,8.09
+1793,New York,United States,9.88,8.23
+1794,New York,United States,9.83,8.53
+1795,New York,United States,9.21,8.35
+1796,New York,United States,8.97,8.27
+1797,New York,United States,8.85,8.51
+1798,New York,United States,9.71,8.67
+1799,New York,United States,9.19,8.51
+1800,New York,United States,9.58,8.48
+1801,New York,United States,10.00,8.59
+1802,New York,United States,10.29,8.58
+1803,New York,United States,10.07,8.50
+1804,New York,United States,9.69,8.84
+1805,New York,United States,10.43,8.56
+1806,New York,United States,9.38,8.43
+1807,New York,United States,9.17,8.28
+1808,New York,United States,9.57,7.63
+1809,New York,United States,8.87,7.08
+1810,New York,United States,9.35,6.92
+1811,New York,United States,9.43,6.86
+1812,New York,United States,7.80,7.05
+1813,New York,United States,8.93,7.74
+1814,New York,United States,8.70,7.59
+1815,New York,United States,8.27,7.24
+1816,New York,United States,7.92,6.94
+1817,New York,United States,7.78,6.98
+1818,New York,United States,8.13,7.83
+1819,New York,United States,9.07,7.37
+1820,New York,United States,8.98,7.62
+1821,New York,United States,8.53,8.09
+1822,New York,United States,9.84,8.19
+1823,New York,United States,8.64,7.72
+1824,New York,United States,9.29,8.55
+1825,New York,United States,10.21,8.39
+1826,New York,United States,9.92,8.36
+1827,New York,United States,9.26,8.81
+1828,New York,United States,10.70,8.17
+1829,New York,United States,9.17,7.94
+1830,New York,United States,10.32,8.52
+1831,New York,United States,9.07,7.64
+1832,New York,United States,9.15,7.45
+1833,New York,United States,9.15,8.01
+1834,New York,United States,9.32,8.15
+1835,New York,United States,8.48,7.39
+1836,New York,United States,7.51,7.70
+1837,New York,United States,8.12,7.38
+1838,New York,United States,8.73,7.51
+1839,New York,United States,9.17,7.63
+1840,New York,United States,9.27,7.80
+1841,New York,United States,9.00,7.69
+1842,New York,United States,9.41,8.02
+1843,New York,United States,8.49,8.17
+1844,New York,United States,9.12,7.65
+1845,New York,United States,9.49,7.85
+1846,New York,United States,9.66,8.55
+1847,New York,United States,9.30,8.09
+1848,New York,United States,9.54,7.98
+1849,New York,United States,8.83,7.98
+1850,New York,United States,9.10,7.90
+1851,New York,United States,9.26,8.18
+1852,New York,United States,8.98,8.10
+1853,New York,United States,9.68,8.04
+1854,New York,United States,9.56,8.21
+1855,New York,United States,9.11,8.11
+1856,New York,United States,8.20,8.00
+1857,New York,United States,8.52,7.76
+1858,New York,United States,9.13,8.10
+1859,New York,United States,9.17,8.25
+1860,New York,United States,9.18,7.96
+1861,New York,United States,9.47,7.85
+1862,New York,United States,9.00,7.56
+1863,New York,United States,9.09,8.11
+1864,New York,United States,9.29,7.98
+1865,New York,United States,9.64,8.18
+1866,New York,United States,8.95,8.29
+1867,New York,United States,8.59,8.44
+1868,New York,United States,7.95,8.25
+1869,New York,United States,8.85,8.43
+1870,New York,United States,10.04,8.20
+1871,New York,United States,8.94,8.12
+1872,New York,United States,8.61,8.19
+1873,New York,United States,8.44,8.35
+1874,New York,United States,9.06,8.43
+1875,New York,United States,7.74,7.86
+1876,New York,United States,9.35,8.08
+1877,New York,United States,10.15,8.54
+1878,New York,United States,10.38,8.83
+1879,New York,United States,9.37,8.17
+1880,New York,United States,9.99,8.12
+1881,New York,United States,9.77,8.27
+1882,New York,United States,9.22,8.13
+1883,New York,United States,8.59,7.98
+1884,New York,United States,9.36,7.77
+1885,New York,United States,8.37,7.92
+1886,New York,United States,8.90,7.95
+1887,New York,United States,9.10,7.91
+1888,New York,United States,8.31,8.09
+1889,New York,United States,9.86,8.32
+1890,New York,United States,9.62,7.97
+1891,New York,United States,10.00,8.02
+1892,New York,United States,9.15,8.07
+1893,New York,United States,8.68,8.06
+1894,New York,United States,9.95,8.16
+1895,New York,United States,9.22,8.15
+1896,New York,United States,9.51,8.21
+1897,New York,United States,9.63,8.29
+1898,New York,United States,10.24,8.18
+1899,New York,United States,9.51,8.40
+1900,New York,United States,10.40,8.50
+1901,New York,United States,9.29,8.54
+1902,New York,United States,9.43,8.30
+1903,New York,United States,9.32,8.22
+1904,New York,United States,7.87,8.09
+1905,New York,United States,9.10,8.23
+1906,New York,United States,9.90,8.38
+1907,New York,United States,8.49,7.95
+1908,New York,United States,9.87,8.19
+1909,New York,United States,9.51,8.18
+1910,New York,United States,9.55,8.22
+1911,New York,United States,9.91,8.18
+1912,New York,United States,9.24,8.17
+1913,New York,United States,10.76,8.30
+1914,New York,United States,9.02,8.59
+1915,New York,United States,9.85,8.59
+1916,New York,United States,9.10,8.23
+1917,New York,United States,8.24,8.02
+1918,New York,United States,9.51,8.13
+1919,New York,United States,10.05,8.38
+1920,New York,United States,9.19,8.36
+1921,New York,United States,10.91,8.57
+1922,New York,United States,10.04,8.41
+1923,New York,United States,9.51,8.42
+1924,New York,United States,8.85,8.51
+1925,New York,United States,9.72,8.53
+1926,New York,United States,8.54,8.73
+1927,New York,United States,9.70,8.52
+1928,New York,United States,9.82,8.63
+1929,New York,United States,9.97,8.24
+1930,New York,United States,10.22,8.63
+1931,New York,United States,11.03,8.72
+1932,New York,United States,10.44,8.71
+1933,New York,United States,10.18,8.34
+1934,New York,United States,9.48,8.63
+1935,New York,United States,9.48,8.52
+1936,New York,United States,9.73,8.55
+1937,New York,United States,10.16,8.70
+1938,New York,United States,10.42,8.86
+1939,New York,United States,10.07,8.76
+1940,New York,United States,8.53,8.76
+1941,New York,United States,10.19,8.77
+1942,New York,United States,9.96,8.73
+1943,New York,United States,9.58,8.76
+1944,New York,United States,10.01,8.85
+1945,New York,United States,9.94,8.58
+1946,New York,United States,10.63,8.68
+1947,New York,United States,9.91,8.80
+1948,New York,United States,9.83,8.75
+1949,New York,United States,11.39,8.59
+1950,New York,United States,9.72,8.37
+1951,New York,United States,10.27,8.63
+1952,New York,United States,10.52,8.64
+1953,New York,United States,11.17,8.87
+1954,New York,United States,10.31,8.56
+1955,New York,United States,10.39,8.63
+1956,New York,United States,9.75,8.28
+1957,New York,United States,10.50,8.73
+1958,New York,United States,9.16,8.77
+1959,New York,United States,10.77,8.73
+1960,New York,United States,9.76,8.58
+1961,New York,United States,10.03,8.80
+1962,New York,United States,9.32,8.75
+1963,New York,United States,9.32,8.86
+1964,New York,United States,9.96,8.41
+1965,New York,United States,9.63,8.53
+1966,New York,United States,9.75,8.60
+1967,New York,United States,9.30,8.70
+1968,New York,United States,9.75,8.52
+1969,New York,United States,9.76,8.60
+1970,New York,United States,9.77,8.70
+1971,New York,United States,10.01,8.60
+1972,New York,United States,9.49,8.50
+1973,New York,United States,10.96,8.95
+1974,New York,United States,10.08,8.47
+1975,New York,United States,10.56,8.74
+1976,New York,United States,9.53,8.35
+1977,New York,United States,9.96,8.85
+1978,New York,United States,9.17,8.69
+1979,New York,United States,10.02,8.73
+1980,New York,United States,9.86,8.98
+1981,New York,United States,9.95,9.17
+1982,New York,United States,9.78,8.64
+1983,New York,United States,10.51,9.03
+1984,New York,United States,10.26,8.69
+1985,New York,United States,10.26,8.66
+1986,New York,United States,10.15,8.83
+1987,New York,United States,10.32,8.99
+1988,New York,United States,9.93,9.20
+1989,New York,United States,9.66,8.92
+1990,New York,United States,11.32,9.23
+1991,New York,United States,11.36,9.18
+1992,New York,United States,9.57,8.84
+1993,New York,United States,10.04,8.87
+1994,New York,United States,10.00,9.04
+1995,New York,United States,10.24,9.35
+1996,New York,United States,9.81,9.04
+1997,New York,United States,10.00,9.20
+1998,New York,United States,11.82,9.52
+1999,New York,United States,11.16,9.29
+2000,New York,United States,9.97,9.20
+2001,New York,United States,10.93,9.41
+2002,New York,United States,11.25,9.57
+2003,New York,United States,9.84,9.53
+2004,New York,United States,10.39,9.32
+2005,New York,United States,10.68,9.70
+2006,New York,United States,11.52,9.53
+2007,New York,United States,10.63,9.73
+2008,New York,United States,10.64,9.43
+2009,New York,United States,10.14,9.51
+2010,New York,United States,11.36,9.70
+2011,New York,United States,11.27,9.52
+2012,New York,United States,11.97,9.51
+2013,New York,United States,12.16,9.61
+1845,Tokyo,Japan,11.95,7.85
+1846,Tokyo,Japan,12.40,8.55
+1847,Tokyo,Japan,12.21,8.09
+1848,Tokyo,Japan,12.14,7.98
+1849,Tokyo,Japan,12.14,7.98
+1850,Tokyo,Japan,11.71,7.90
+1851,Tokyo,Japan,11.76,8.18
+1852,Tokyo,Japan,11.73,8.10
+1853,Tokyo,Japan,11.86,8.04
+1854,Tokyo,Japan,12.24,8.21
+1855,Tokyo,Japan,12.56,8.11
+1856,Tokyo,Japan,12.06,8.00
+1857,Tokyo,Japan,11.94,7.76
+1858,Tokyo,Japan,12.23,8.10
+1859,Tokyo,Japan,12.15,8.25
+1860,Tokyo,Japan,11.72,7.96
+1861,Tokyo,Japan,11.79,7.85
+1862,Tokyo,Japan,11.73,7.56
+1863,Tokyo,Japan,12.45,8.11
+1864,Tokyo,Japan,11.95,7.98
+1865,Tokyo,Japan,12.39,8.18
+1866,Tokyo,Japan,11.58,8.29
+1867,Tokyo,Japan,12.46,8.44
+1868,Tokyo,Japan,12.25,8.25
+1869,Tokyo,Japan,12.03,8.43
+1870,Tokyo,Japan,16.12,8.20
+1871,Tokyo,Japan,12.12,8.12
+1872,Tokyo,Japan,12.00,8.19
+1873,Tokyo,Japan,11.53,8.35
+1874,Tokyo,Japan,12.33,8.43
+1875,Tokyo,Japan,12.17,7.86
+1876,Tokyo,Japan,12.39,8.08
+1877,Tokyo,Japan,12.73,8.54
+1878,Tokyo,Japan,12.24,8.83
+1879,Tokyo,Japan,12.82,8.17
+1880,Tokyo,Japan,12.43,8.12
+1881,Tokyo,Japan,12.15,8.27
+1882,Tokyo,Japan,12.29,8.13
+1883,Tokyo,Japan,11.84,7.98
+1884,Tokyo,Japan,11.18,7.77
+1885,Tokyo,Japan,11.53,7.92
+1886,Tokyo,Japan,12.44,7.95
+1887,Tokyo,Japan,12.25,7.91
+1888,Tokyo,Japan,12.01,8.09
+1889,Tokyo,Japan,11.66,8.32
+1890,Tokyo,Japan,13.50,7.97
+1891,Tokyo,Japan,12.42,8.02
+1892,Tokyo,Japan,12.10,8.07
+1893,Tokyo,Japan,11.71,8.06
+1894,Tokyo,Japan,12.92,8.16
+1895,Tokyo,Japan,12.22,8.15
+1896,Tokyo,Japan,12.33,8.21
+1897,Tokyo,Japan,11.72,8.29
+1898,Tokyo,Japan,12.49,8.18
+1899,Tokyo,Japan,12.32,8.40
+1900,Tokyo,Japan,12.11,8.50
+1901,Tokyo,Japan,12.31,8.54
+1902,Tokyo,Japan,12.22,8.30
+1903,Tokyo,Japan,12.34,8.22
+1904,Tokyo,Japan,12.29,8.09
+1905,Tokyo,Japan,12.03,8.23
+1906,Tokyo,Japan,11.66,8.38
+1907,Tokyo,Japan,11.97,7.95
+1908,Tokyo,Japan,11.72,8.19
+1909,Tokyo,Japan,12.04,8.18
+1910,Tokyo,Japan,12.00,8.22
+1911,Tokyo,Japan,12.81,8.18
+1912,Tokyo,Japan,12.32,8.17
+1913,Tokyo,Japan,11.72,8.30
+1914,Tokyo,Japan,13.10,8.59
+1915,Tokyo,Japan,12.74,8.59
+1916,Tokyo,Japan,13.10,8.23
+1917,Tokyo,Japan,12.04,8.02
+1918,Tokyo,Japan,12.19,8.13
+1919,Tokyo,Japan,12.59,8.38
+1920,Tokyo,Japan,12.69,8.36
+1921,Tokyo,Japan,12.12,8.57
+1922,Tokyo,Japan,12.86,8.41
+1923,Tokyo,Japan,12.64,8.42
+1924,Tokyo,Japan,12.35,8.51
+1925,Tokyo,Japan,12.19,8.53
+1926,Tokyo,Japan,11.74,8.73
+1927,Tokyo,Japan,12.19,8.52
+1928,Tokyo,Japan,12.42,8.63
+1929,Tokyo,Japan,12.44,8.24
+1930,Tokyo,Japan,13.00,8.63
+1931,Tokyo,Japan,12.16,8.72
+1932,Tokyo,Japan,12.67,8.71
+1933,Tokyo,Japan,12.69,8.34
+1934,Tokyo,Japan,11.85,8.63
+1935,Tokyo,Japan,12.25,8.52
+1936,Tokyo,Japan,12.09,8.55
+1937,Tokyo,Japan,12.86,8.70
+1938,Tokyo,Japan,12.60,8.86
+1939,Tokyo,Japan,12.72,8.76
+1940,Tokyo,Japan,12.66,8.76
+1941,Tokyo,Japan,12.61,8.77
+1942,Tokyo,Japan,12.80,8.73
+1943,Tokyo,Japan,12.48,8.76
+1944,Tokyo,Japan,12.16,8.85
+1945,Tokyo,Japan,11.62,8.58
+1946,Tokyo,Japan,12.86,8.68
+1947,Tokyo,Japan,11.99,8.80
+1948,Tokyo,Japan,13.18,8.75
+1949,Tokyo,Japan,12.62,8.59
+1950,Tokyo,Japan,13.21,8.37
+1951,Tokyo,Japan,12.72,8.63
+1952,Tokyo,Japan,12.65,8.64
+1953,Tokyo,Japan,12.51,8.87
+1954,Tokyo,Japan,12.76,8.56
+1955,Tokyo,Japan,13.42,8.63
+1956,Tokyo,Japan,12.61,8.28
+1957,Tokyo,Japan,12.66,8.73
+1958,Tokyo,Japan,13.09,8.77
+1959,Tokyo,Japan,13.50,8.73
+1960,Tokyo,Japan,13.26,8.58
+1961,Tokyo,Japan,13.66,8.80
+1962,Tokyo,Japan,13.01,8.75
+1963,Tokyo,Japan,12.71,8.86
+1964,Tokyo,Japan,12.93,8.41
+1965,Tokyo,Japan,12.27,8.53
+1966,Tokyo,Japan,12.81,8.60
+1967,Tokyo,Japan,12.85,8.70
+1968,Tokyo,Japan,12.75,8.52
+1969,Tokyo,Japan,12.64,8.60
+1970,Tokyo,Japan,12.35,8.70
+1971,Tokyo,Japan,12.52,8.60
+1972,Tokyo,Japan,13.17,8.50
+1973,Tokyo,Japan,12.96,8.95
+1974,Tokyo,Japan,12.23,8.47
+1975,Tokyo,Japan,12.72,8.74
+1976,Tokyo,Japan,12.19,8.35
+1977,Tokyo,Japan,12.94,8.85
+1978,Tokyo,Japan,13.05,8.69
+1979,Tokyo,Japan,13.83,8.73
+1980,Tokyo,Japan,12.35,8.98
+1981,Tokyo,Japan,12.06,9.17
+1982,Tokyo,Japan,12.91,8.64
+1983,Tokyo,Japan,12.64,9.03
+1984,Tokyo,Japan,11.98,8.69
+1985,Tokyo,Japan,12.90,8.66
+1986,Tokyo,Japan,12.22,8.83
+1987,Tokyo,Japan,13.41,8.99
+1988,Tokyo,Japan,12.44,9.20
+1989,Tokyo,Japan,13.35,8.92
+1990,Tokyo,Japan,14.14,9.23
+1991,Tokyo,Japan,13.32,9.18
+1992,Tokyo,Japan,12.94,8.84
+1993,Tokyo,Japan,12.49,8.87
+1994,Tokyo,Japan,13.78,9.04
+1995,Tokyo,Japan,12.98,9.35
+1996,Tokyo,Japan,12.61,9.04
+1997,Tokyo,Japan,13.43,9.20
+1998,Tokyo,Japan,13.74,9.52
+1999,Tokyo,Japan,13.78,9.29
+2000,Tokyo,Japan,13.50,9.20
+2001,Tokyo,Japan,13.13,9.41
+2002,Tokyo,Japan,13.42,9.57
+2003,Tokyo,Japan,12.89,9.53
+2004,Tokyo,Japan,14.05,9.32
+2005,Tokyo,Japan,12.99,9.70
+2006,Tokyo,Japan,13.28,9.53
+2007,Tokyo,Japan,13.68,9.73
+2008,Tokyo,Japan,13.31,9.43
+2009,Tokyo,Japan,13.55,9.51
+2010,Tokyo,Japan,13.82,9.70
+2011,Tokyo,Japan,13.32,9.52
+2012,Tokyo,Japan,13.11,9.51
+2013,Tokyo,Japan,13.91,9.61
