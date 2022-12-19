@@ -1,8 +1,13 @@
-# Ford GoBike Data Visualization
-## by Arthur Monteiro
+# 5. Data Visualizations
+
+The final chapter was focused on proper visualization of data. We learned about chart junk, uni-, bi- and multivariate visualization, use of color, data/ink ratio, the lief factor, other encodings, [...].
+
+The task of the final project was to analyze and visualize real-world data. I chose the Ford GoBike dataset.
+
+## Ford GoBike Data Visualization
 
 
-## Dataset
+### Dataset
 
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. This project will analyze the data collected from users of the GoBike program for February 2019. 
 
@@ -18,7 +23,7 @@ During the wrangling process, was necessary correct some quality and tidiness is
 After all this process, there was left 174,759 rides with 7 features.
 
 
-## Summary of Findings
+### Summary of Findings
 
 - Almost 30% of data has the distance lower than 1%.
 - 96% of the data has the distance of stations between 4km.
@@ -29,6 +34,6 @@ After all this process, there was left 174,759 rides with 7 features.
 - People looks get the bike during more time on the weekends.
 
 
-## Key Insights for Presentation
+### Key Insights for Presentation
 
 I foccused on find relations between the stations that people get and leave the bicycles. Including in this relation the duration of time that people rent the bike, the day of the week and the hour of the day.
